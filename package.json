@@ -1,5 +1,5 @@
 {
-  "name": "aleksey28-browser-provider-saucelabs",
+  "name": "testcafe-browser-provider-saucelabs-aleksey28",
   "version": "2.0.0",
   "description": "saucelabs TestCafe browser provider plugin.",
   "repository": "https://github.com/Aleksey28/testcafe-browser-provider-saucelabs",
